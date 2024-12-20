@@ -33,8 +33,8 @@ Follow these steps to run the project locally:
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/.git
-   cd your-repository-name/backend
+   git clone https://github.com/collabtool/.git
+   cd collabtool/backend
 
 
    
